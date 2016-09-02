@@ -7,6 +7,8 @@ public class MyApp {
 
 		System.out.println("Hello World");
 		
+		System.out.println("New part after URI Cloning");
+		
 	}
 
 }
