@@ -7,8 +7,10 @@ public class AnotherTest {
 		System.out.println("testing...");
 		
 		System.out.println("Branch changes...");
+<<<<<<< HEAD
 
+=======
+>>>>>>> refs/heads/NewBranch
 	}
-
 
 }
