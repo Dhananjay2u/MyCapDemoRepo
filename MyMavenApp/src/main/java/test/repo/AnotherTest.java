@@ -7,6 +7,8 @@ public class AnotherTest {
 		System.out.println("testing...");
 		
 		System.out.println("Branch changes...");
+		
+		System.out.println("Branch changes...****");
 
 	}
 
