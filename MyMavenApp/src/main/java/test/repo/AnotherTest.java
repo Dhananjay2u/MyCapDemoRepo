@@ -6,11 +6,8 @@ public class AnotherTest {
 		// TODO Auto-generated method stub
 		System.out.println("testing...");
 		
-		
-		
-		System.out.println("testing...aaaa");
-		
-		System.out.println("testing...bbbbbb");
+		System.out.println("Branch changes...");
+
 	}
 
 }
